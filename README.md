@@ -3,4 +3,4 @@ hillelJava
 
 Hi all!
 
-This repository was created for writing my homework at Java Elementart.
+This repository was created for writing my homework at Java Elementary course.
