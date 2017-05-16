@@ -9,10 +9,10 @@ public class ArithmeticMean {
         int sum = first + second;
 
         if (sum%2 == 0) {
-            int avarage = sum/2 ;
+            int average = sum/2 ;
             System.out.println("The arithmetic mean is " + avarage);
         } else if (sum%2 != 0) {
-            double avarageD = (double) sum /2;
+            double averageD = (double) sum /2;
             System.out.println("The arithmetic mean is " + avarageD);
         }
 
