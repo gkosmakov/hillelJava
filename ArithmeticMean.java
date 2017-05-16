@@ -1,6 +1,3 @@
-/**
- * Created by Gabriel_S on 16.05.2017.
- */
 import java.util.Scanner;
 public class ArithmeticMean {
     public static void main(String[] args) {
